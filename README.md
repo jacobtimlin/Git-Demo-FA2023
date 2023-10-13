@@ -1,6 +1,6 @@
 # Git-Demo-FA2023: Jacob Timlin Demo Repo 1
 
-Actually learning Git
+Actually learning Git!!!!!!!!!!!!!!
 
 Gonna learn some cool stuff
 
@@ -10,3 +10,6 @@ Gonna learn some cool stuff
 - git push
 - git clone
 - git push
+
+## Kool Stuff
+- learning branching
